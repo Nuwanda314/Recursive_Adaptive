@@ -15,7 +15,9 @@ We investigate a stochastic online variant of the classical Frank-Wolfe algorith
 
 ## Requirements
 - Julia version
-- package dependencies
+Package dependencies
+- Example 1
+  - test
 
 ## Installation
 Schritte zum Aktivieren des Environments und Installieren der Pakete.
